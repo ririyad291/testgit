@@ -3,7 +3,7 @@
 int main()
 {
 
-  printf("This is a cpp file")
+  printf("This is a cpp file");
 
   return 0;
 
